@@ -1,0 +1,3 @@
+#!/bin/bash
+mysql -u roy -pbluePool05 budget < ./create-tables-budget.sql
+exit

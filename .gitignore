@@ -1,0 +1,5 @@
+# Exclude credential files
+# database-setup/credentials/*
+
+# Exclude test files
+src/backend/test.php
